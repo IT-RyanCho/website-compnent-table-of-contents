@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "name": "website-compnent-table-of-contents",
+  "version": "1.0.0",
+  "description": "This website component features a responsive Table of Contents (TOC) section utilizing Bootstrap for styling and interactivity. It provides easy navigation to different sections of the page.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
+  },
+  "author": "",
+  "license": "ISC"
+}
